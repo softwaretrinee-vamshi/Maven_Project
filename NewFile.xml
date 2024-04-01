@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MySuite">
+	<test name="Test1">
+		<classes>
+			<class name="package1.Test1">
+
+
+			</class>
+
+
+		</classes>
+
+
+	</test>
+
+
+
+</suite>
